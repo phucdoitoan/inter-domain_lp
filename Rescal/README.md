@@ -1,7 +1,7 @@
 
 
 # Requirements
-torchkge==0.16.17
+torchkge==0.16.17 \
 optuna=2.5.0
 
 Complete environment setting can be found in '../conda_environment.yml'
@@ -20,19 +20,19 @@ Run 'torch_rescal/create_warmstart_embeddings_*.py' to create warmstart embeddin
 
 
 2. The ones used in the paper
-Download zip file from 
-https://drive.google.com/file/d/10UI7R9-qsJee68PXMn8FiH70bO3nVMQ7/view?usp=sharing 
-and 
-https://drive.google.com/file/d/1ccWBIcI77hxnqURpLzaFPhWea1yBGT1O/view?usp=sharing
+Download zip file from \
+https://drive.google.com/file/d/10UI7R9-qsJee68PXMn8FiH70bO3nVMQ7/view?usp=sharing \
+and \
+https://drive.google.com/file/d/1ccWBIcI77hxnqURpLzaFPhWea1yBGT1O/view?usp=sharing \
 
 then unzip to 'torch_rescal/hyper-search_warmstart_embeddings/' and 'torch_rescal/warmstart_embeddings/' directories
 
 
 ## Tuning hyper-parameters
 
-Run 'torch_rescal/run_hyper_search_*.sh' for tuning hyper-parameters in each dataset
-Or
-Use the ones provided in 'torch_rescal/best_hypers/' directory
+Run 'torch_rescal/run_hyper_search_*.sh' for tuning hyper-parameters in each dataset \
+Or \
+Use the ones provided in 'torch_rescal/best_hypers/' directory 
 
 
 ## Running training codes
