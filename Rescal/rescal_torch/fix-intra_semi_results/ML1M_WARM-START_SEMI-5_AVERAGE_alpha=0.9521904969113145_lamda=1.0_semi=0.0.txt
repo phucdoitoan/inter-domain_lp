@@ -1,0 +1,13 @@
+
+SEMI Average results of ML1M
+
+Intra Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.401	204	0.247
+0.005	7	0.009
+
+
+Inter Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.256	450	0.164
+0.006	6	0.010

@@ -1,0 +1,28 @@
+
+********** MMD ************
+Data name: FB15k-237
+Alpha: 2.794405961424063
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.9242 (+-0.0181)
+Average inter ROC AUC: 0.5066 (+-0.0933)
+
+********** MMD ************
+Data name: FB15k-237
+Alpha: 4.007162057434225
+Overlap: 
+Average intra ROC AUC: 0.9312 (+-0.0029)
+Average inter ROC AUC: 0.7702 (+-0.0634)
+
+********** MMD ************
+Data name: FB15k-237
+Alpha: 5.19089185976077
+Overlap: -3
+Average intra ROC AUC: 0.9263 (+-0.0054)
+Average inter ROC AUC: 0.8133 (+-0.0295)
+
+********** MMD ************
+Data name: FB15k-237
+Alpha: 1.1471562984561163
+Overlap: -5
+Average intra ROC AUC: 0.9351 (+-0.0053)
+Average inter ROC AUC: 0.8747 (+-0.0068)

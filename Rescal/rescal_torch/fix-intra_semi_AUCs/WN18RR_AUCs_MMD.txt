@@ -1,0 +1,28 @@
+
+********** MMD ************
+Data name: WN18RR
+Alpha: 4.283631330937847
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.8183 (+-0.0194)
+Average inter ROC AUC: 0.5003 (+-0.0099)
+
+********** MMD ************
+Data name: WN18RR
+Alpha: 1.3053747358777636
+Overlap: 
+Average intra ROC AUC: 0.8074 (+-0.0290)
+Average inter ROC AUC: 0.5071 (+-0.0092)
+
+********** MMD ************
+Data name: WN18RR
+Alpha: 1.3874796548482706
+Overlap: -3
+Average intra ROC AUC: 0.8612 (+-0.0114)
+Average inter ROC AUC: 0.4979 (+-0.0107)
+
+********** MMD ************
+Data name: WN18RR
+Alpha: 2.3171456175625678
+Overlap: -5
+Average intra ROC AUC: 0.8352 (+-0.0500)
+Average inter ROC AUC: 0.4984 (+-0.0121)

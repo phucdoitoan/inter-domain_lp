@@ -1,0 +1,28 @@
+
+********** MMD ************
+Data name: DBbook2014
+Alpha: 0.6107975631523157
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.9145 (+-0.0049)
+Average inter ROC AUC: 0.4849 (+-0.0945)
+
+********** MMD ************
+Data name: DBbook2014
+Alpha: 0.7210819251876841
+Overlap: 
+Average intra ROC AUC: 0.8917 (+-0.0094)
+Average inter ROC AUC: 0.6320 (+-0.0628)
+
+********** MMD ************
+Data name: DBbook2014
+Alpha: 0.829212195832631
+Overlap: -3
+Average intra ROC AUC: 0.8774 (+-0.0255)
+Average inter ROC AUC: 0.7144 (+-0.0604)
+
+********** MMD ************
+Data name: DBbook2014
+Alpha: 0.7734162488678019
+Overlap: -5
+Average intra ROC AUC: 0.8791 (+-0.0077)
+Average inter ROC AUC: 0.8230 (+-0.0147)

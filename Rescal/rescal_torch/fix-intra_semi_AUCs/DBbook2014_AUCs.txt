@@ -1,0 +1,56 @@
+
+**********************
+Data name: DBbook2014
+Alpha: 0.0
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.9149 (+-0.0039)
+Average inter ROC AUC: 0.4834 (+-0.0968)
+
+**********************
+Data name: DBbook2014
+Alpha: 1.5111597697426409
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.9183 (+-0.0046)
+Average inter ROC AUC: 0.4876 (+-0.0987)
+
+**********************
+Data name: DBbook2014
+Alpha: 0.0
+Overlap: 
+Average intra ROC AUC: 0.8705 (+-0.0316)
+Average inter ROC AUC: 0.6397 (+-0.0658)
+
+**********************
+Data name: DBbook2014
+Alpha: 1.530142644041745
+Overlap: 
+Average intra ROC AUC: 0.8680 (+-0.0399)
+Average inter ROC AUC: 0.6712 (+-0.0867)
+
+**********************
+Data name: DBbook2014
+Alpha: 0.0
+Overlap: -3
+Average intra ROC AUC: 0.8852 (+-0.0082)
+Average inter ROC AUC: 0.7622 (+-0.0319)
+
+**********************
+Data name: DBbook2014
+Alpha: 1.898117492080753
+Overlap: -3
+Average intra ROC AUC: 0.8895 (+-0.0048)
+Average inter ROC AUC: 0.8089 (+-0.0304)
+
+**********************
+Data name: DBbook2014
+Alpha: 0.0
+Overlap: -5
+Average intra ROC AUC: 0.8782 (+-0.0080)
+Average inter ROC AUC: 0.8238 (+-0.0122)
+
+**********************
+Data name: DBbook2014
+Alpha: 2.0433635355311552
+Overlap: -5
+Average intra ROC AUC: 0.8848 (+-0.0089)
+Average inter ROC AUC: 0.8346 (+-0.0200)

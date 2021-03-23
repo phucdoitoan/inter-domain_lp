@@ -1,0 +1,56 @@
+
+**********************
+Data name: WN18RR
+Alpha: 0.0
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.8187 (+-0.0181)
+Average inter ROC AUC: 0.5039 (+-0.0086)
+
+**********************
+Data name: WN18RR
+Alpha: 1.7591919099332058
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.8111 (+-0.0168)
+Average inter ROC AUC: 0.5051 (+-0.0093)
+
+**********************
+Data name: WN18RR
+Alpha: 0.0
+Overlap: 
+Average intra ROC AUC: 0.8138 (+-0.0180)
+Average inter ROC AUC: 0.5123 (+-0.0094)
+
+**********************
+Data name: WN18RR
+Alpha: 0.5143124394769869
+Overlap: 
+Average intra ROC AUC: 0.8175 (+-0.0203)
+Average inter ROC AUC: 0.5100 (+-0.0056)
+
+**********************
+Data name: WN18RR
+Alpha: 0.0
+Overlap: -3
+Average intra ROC AUC: 0.8700 (+-0.0182)
+Average inter ROC AUC: 0.5033 (+-0.0092)
+
+**********************
+Data name: WN18RR
+Alpha: 4.408863650556641
+Overlap: -3
+Average intra ROC AUC: 0.8595 (+-0.0178)
+Average inter ROC AUC: 0.5021 (+-0.0131)
+
+**********************
+Data name: WN18RR
+Alpha: 0.0
+Overlap: -5
+Average intra ROC AUC: 0.8690 (+-0.0072)
+Average inter ROC AUC: 0.4984 (+-0.0205)
+
+**********************
+Data name: WN18RR
+Alpha: 0.8219043433549805
+Overlap: -5
+Average intra ROC AUC: 0.8603 (+-0.0197)
+Average inter ROC AUC: 0.4984 (+-0.0125)

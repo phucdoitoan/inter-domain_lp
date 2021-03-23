@@ -1,0 +1,13 @@
+
+SEMI Average results of WN18RR
+
+Intra Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.330	1166	0.229
+0.067	191	0.056
+
+
+Inter Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.026	2650	0.015
+0.003	41	0.002

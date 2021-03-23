@@ -1,0 +1,13 @@
+
+SEMI Average results of FB15k-237
+
+Intra Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.433	240	0.244
+0.009	14	0.005
+
+
+Inter Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.339	399	0.202
+0.007	18	0.006

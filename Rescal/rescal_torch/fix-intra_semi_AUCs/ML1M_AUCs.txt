@@ -1,0 +1,56 @@
+
+**********************
+Data name: ML1M
+Alpha: 0.0
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.8974 (+-0.0219)
+Average inter ROC AUC: 0.4635 (+-0.1726)
+
+**********************
+Data name: ML1M
+Alpha: 8.078565464563058
+Overlap: -UNOVERLAPED
+Average intra ROC AUC: 0.9318 (+-0.0044)
+Average inter ROC AUC: 0.4945 (+-0.1793)
+
+**********************
+Data name: ML1M
+Alpha: 0.0
+Overlap: 
+Average intra ROC AUC: 0.9498 (+-0.0031)
+Average inter ROC AUC: 0.8051 (+-0.0268)
+
+**********************
+Data name: ML1M
+Alpha: 1.1978562086884925
+Overlap: 
+Average intra ROC AUC: 0.9536 (+-0.0016)
+Average inter ROC AUC: 0.8415 (+-0.0169)
+
+**********************
+Data name: ML1M
+Alpha: 0.0
+Overlap: -3
+Average intra ROC AUC: 0.9464 (+-0.0045)
+Average inter ROC AUC: 0.8321 (+-0.0055)
+
+**********************
+Data name: ML1M
+Alpha: 4.311180967292361
+Overlap: -3
+Average intra ROC AUC: 0.9490 (+-0.0027)
+Average inter ROC AUC: 0.8398 (+-0.0076)
+
+**********************
+Data name: ML1M
+Alpha: 0.0
+Overlap: -5
+Average intra ROC AUC: 0.9488 (+-0.0028)
+Average inter ROC AUC: 0.8447 (+-0.0070)
+
+**********************
+Data name: ML1M
+Alpha: 0.9521904969113145
+Overlap: -5
+Average intra ROC AUC: 0.9532 (+-0.0033)
+Average inter ROC AUC: 0.8673 (+-0.0028)
