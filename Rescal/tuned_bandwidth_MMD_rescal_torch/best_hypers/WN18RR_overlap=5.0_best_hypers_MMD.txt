@@ -1,0 +1,19 @@
+
+Study statistics: 
+  Number of finished trials: 10
+  Number of pruned trials: 0
+  Number of complete trials: 10
+
+
+Best hypers of WN18RR with overlap=5.0
+ || Model = MMD
+Best Hit@10: 0.02698
+
+Hyperparametsr:
+	alpha : 0.7102537723229853
+	emb_dim : 100
+	EPOCHS : 300
+	batch_size : 300
+	lr : 0.01
+	mu : 0.8420023411288505
+Total time for hyperparameter searching: 3342.39s

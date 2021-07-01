@@ -1,0 +1,19 @@
+
+Study statistics: 
+  Number of finished trials: 10
+  Number of pruned trials: 0
+  Number of complete trials: 10
+
+
+Best hypers of FB15k-237 with overlap=0.0
+ || Model = MMD
+Best Hit@10: 0.13319
+
+Hyperparametsr:
+	alpha : 1.230953638335122
+	emb_dim : 100
+	EPOCHS : 300
+	batch_size : 300
+	lr : 0.01
+	mu : 0.014892215052302213
+Total time for hyperparameter searching: 11808.87s

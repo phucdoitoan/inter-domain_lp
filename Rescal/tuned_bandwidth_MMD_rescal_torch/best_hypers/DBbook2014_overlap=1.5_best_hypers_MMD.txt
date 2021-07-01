@@ -1,0 +1,19 @@
+
+Study statistics: 
+  Number of finished trials: 10
+  Number of pruned trials: 0
+  Number of complete trials: 10
+
+
+Best hypers of DBbook2014 with overlap=1.5
+ || Model = MMD
+Best Hit@10: 0.09873
+
+Hyperparametsr:
+	alpha : 2.9719308612193647
+	emb_dim : 100
+	EPOCHS : 300
+	batch_size : 300
+	lr : 0.01
+	mu : 0.9344425016987429
+Total time for hyperparameter searching: 19905.40s

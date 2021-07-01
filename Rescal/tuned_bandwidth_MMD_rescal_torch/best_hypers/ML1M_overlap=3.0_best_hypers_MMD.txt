@@ -1,0 +1,19 @@
+
+Study statistics: 
+  Number of finished trials: 10
+  Number of pruned trials: 0
+  Number of complete trials: 10
+
+
+Best hypers of ML1M with overlap=3.0
+ || Model = MMD
+Best Hit@10: 0.21106
+
+Hyperparametsr:
+	alpha : 3.3554943349938684
+	emb_dim : 100
+	EPOCHS : 300
+	batch_size : 300
+	lr : 0.001
+	mu : 0.011099183357531918
+Total time for hyperparameter searching: 38474.28s

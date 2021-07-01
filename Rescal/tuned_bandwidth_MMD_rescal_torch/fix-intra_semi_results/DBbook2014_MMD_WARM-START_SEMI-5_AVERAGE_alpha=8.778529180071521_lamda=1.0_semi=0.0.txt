@@ -1,0 +1,13 @@
+
+SEMI Average results of DBbook2014
+
+Intra Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.416	303	0.259
+0.007	6	0.007
+
+
+Inter Testing (Filtered)
+Hit@10	Mean Rank	MRR
+0.381	534	0.257
+0.015	26	0.020

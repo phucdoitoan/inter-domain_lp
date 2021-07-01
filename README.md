@@ -1,10 +1,14 @@
 
 
+# Inter-domain Multi-relational Link Prediction
+This is the codes for the paper [Inter-domain Multi-relational Link Prediction](https://arxiv.org/abs/2106.06171), ECML-PKDD 2021
+
+
 # Requirements
 torchkge==0.16.17 \
 optuna=2.5.0
 
-Complete environment setting can be found in '../conda_environment.yml'
+Complete environment setting can be found in './conda_environment.yml'
 
 
 # Data
@@ -12,6 +16,7 @@ Download data from https://drive.google.com/file/d/1vyBPkLmLdunJrZoCds5n9_K_gTrm
 and unzip to 'data/' directory
 
 # To run the codes
+Go to './Rescal/' directory
 
 ## Prepare warmstart embeddings with Rescal
 
@@ -55,5 +60,7 @@ The learned embeddings after training are saved in 'rescal_torch/fix-intra_semi_
 The ones learned from the paper's experiments can be downloaded from https://drive.google.com/file/d/1UJ4GdxXGHdcYRjCrj5agXD7KHEBzVvFR/view?usp=sharing
 
 
-
+## Note
+In the paper, a mixture of Gaussian kernels with fixed bandwidths is used as the kernel for MMD. Empirically, the mixture perform favourably to a single Gaussian kernel with a tuned bandwidth. \
+For results of MMD with tuned bandwidth, check './tuned_bandwidth_MMD_rescal_torch/' directory.
 
