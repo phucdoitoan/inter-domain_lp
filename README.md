@@ -61,6 +61,6 @@ The ones learned from the paper's experiments can be downloaded from https://dri
 
 
 ## Note
-In the paper, a mixture of Gaussian kernels with fixed bandwidths is used as the kernel for MMD. Empirically, the mixture perform favourably to a single Gaussian kernel with a tuned bandwidth. \
+In the paper, a mixture of Gaussian kernels with fixed bandwidths is used as the kernel for MMD. Empirically, the mixture performs favourably to a single Gaussian kernel with a tuned bandwidth. \
 For results of MMD with tuned bandwidth, check './tuned_bandwidth_MMD_rescal_torch/' directory.
 
